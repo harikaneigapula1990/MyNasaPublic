@@ -1,0 +1,6 @@
+framework module Pods_MyNasa {
+  umbrella header "Pods-MyNasa-umbrella.h"
+
+  export *
+  module * { export * }
+}

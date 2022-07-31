@@ -1,0 +1,28 @@
+PODS:
+  - PromiseKit (6.17.1):
+    - PromiseKit/CorePromise (= 6.17.1)
+    - PromiseKit/Foundation (= 6.17.1)
+    - PromiseKit/UIKit (= 6.17.1)
+  - PromiseKit/CorePromise (6.17.1)
+  - PromiseKit/Foundation (6.17.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.17.1):
+    - PromiseKit/CorePromise
+  - ReadMoreTextView (3.0.1)
+
+DEPENDENCIES:
+  - PromiseKit (~> 6.8)
+  - ReadMoreTextView
+
+SPEC REPOS:
+  trunk:
+    - PromiseKit
+    - ReadMoreTextView
+
+SPEC CHECKSUMS:
+  PromiseKit: ee485df3d4dc570594d7e7aecae6352697dc6a4c
+  ReadMoreTextView: 19147adf93abce6d7271e14031a00303fe28720d
+
+PODFILE CHECKSUM: 69a8774f8c6e4465e029746676d92fe503d5ebc9
+
+COCOAPODS: 1.11.3
